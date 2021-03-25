@@ -1,2 +1,5 @@
-# university-mysql-php-example
-Üniversite öğrencilerine verilen MYSQL ve PHP ile butonlu giriş çıkış sayfalı ve üyeleri sıralama ödevinin örneğidir alıp değiştirirek öğretmenlerinizi kandırabilirsiniz şştt aramızda QEKQJWEJKQ
+# ACAR ile Teacher Kandırma!
+
+MYSQL ve PHP ile istenen butonlu form postlu, yönetim şifre güncelleme, üyeleri listeleme gibi sistem istenmektedir ve sizlere daha iyi yardımcı olmak amacıyla paylaşmış durumundayım alıp kullanabilirsiniz üstünde değişlilik yapın çakmasınlar kanka gerçi hocalar beni nerden bilcek :)
+
+uyeler.sql adlı veritabanını mysqla okutun ve baglanti.php dosyayı sunucunuza göre düzenleyin ve sistem çalışır!

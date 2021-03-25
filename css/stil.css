@@ -1,0 +1,5 @@
+body, td, textarea, select, blockquote{font: 95%/190% "Trebuchet MS", Tahoma, Arial;}
+.giris_td{padding-bottom:20px;}
+a{color:#900; text-decoration:none;}
+a:hover{color:#333; text-decoration:underline;}
+input{size:20px;}
